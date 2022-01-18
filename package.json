@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannycoates/pem-jwk.git"
+    "url": "https://github.com/oCHRISo/pem-jwk.git"
   },
   "bugs": {
-    "url": "https://github.com/dannycoates/pem-jwk/issues"
+    "url": "https://github.com/oCHRISo/pem-jwk/issues"
   },
-  "homepage": "https://github.com/dannycoates/pem-jwk"
+  "homepage": "https://github.com/oCHRISo/pem-jwk"
 }
